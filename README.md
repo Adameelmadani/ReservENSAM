@@ -8,7 +8,7 @@ ReservENSAM is a reservation management system designed for the École Nationale
 > Built by **Adam El Madani** & **Mohammed Amine Hssaine**
 
 <div align="center">
-  <img src="client/assets/vid.gif" alt="ReservENSAM" />
+  <img src="client/assets/img.png" alt="ReservENSAM" />
 </div>
 
 ## Features
