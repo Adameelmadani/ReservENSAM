@@ -1,6 +1,15 @@
 # ReservENSAM
 
+![Php](https://img.shields.io/badge/Php-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ReservENSAM is a reservation management system designed for the École Nationale Supérieure des Arts et Métiers. It allows users to manage room reservations, view reservation statuses, and handle user profiles.
+
+> Built by **Adam El Madani** & **Mohammed Amine Hssaine**
+
+<div align="center">
+  <img src="client/assets/vid.gif" alt="ReservENSAM" />
+</div>
 
 ## Features
 
@@ -63,4 +72,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
